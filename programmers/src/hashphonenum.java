@@ -31,7 +31,7 @@ public class hashphonenum {
     }
 
 
-    // non-Hash
+    // Non-Hash
     public boolean solution2(String[] phone_book) {
         boolean answer = true;
 

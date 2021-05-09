@@ -2,7 +2,7 @@ import java.util.*;
 
 public class hashmarathon {
 
-    // non hash
+    // Non-Hash
     public String solution1(String[] participant, String[] completion) {
         Arrays.sort(participant);
         Arrays.sort(completion);
@@ -18,7 +18,7 @@ public class hashmarathon {
         return participant[i];
     }
 
-    // hash
+    // Hash
     public String solution2(String[] participant, String[] completion) {
         String answer = "";
 
